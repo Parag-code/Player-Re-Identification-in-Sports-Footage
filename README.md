@@ -50,6 +50,17 @@ This system is useful for sports analytics, player tracking, and automated video
 
 ---
 
+## ⚙️ Setup and Installation
+
+Follow the steps below to set up and run the project locally.
+
+### 1. 📁 Clone the Repository
+
+```bash
+git clone https://github.com/Parag-code/player-reid.git
+cd player-reid
+```
+
 ## 🛠️ Installation
 
 **Requirements:**
@@ -63,3 +74,10 @@ This system is useful for sports analytics, player tracking, and automated video
 
 ```bash
 pip install -r requirements.txt
+```
+**Run the Code:**
+
+```bash
+python main.py
+
+
