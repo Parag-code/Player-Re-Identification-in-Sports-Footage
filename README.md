@@ -89,10 +89,8 @@ The model file `yolov11.pt` is too large for this repository and is excluded via
 
 The model file `yolov11.pt` is too large for this repository and is excluded via `.gitignore`.
 
-📥 [Download yolov11.pt from Google Drive](https://drive.google.com/file/d/1AbCDEFghIjKlmNOPqR/view?usp=sharing)
+📥 [Download yolov11.pt from Google Drive](https://drive.google.com/file/d/1TVVRsjaTXN8B2SfqpLX32keivXIB69Rs/view?usp=sharing)
 
 After downloading, place the file inside the `models/` folder:)
-
-After downloading, place the file inside the `models/` folder:
 
 
