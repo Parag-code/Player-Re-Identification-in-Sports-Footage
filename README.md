@@ -79,5 +79,20 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
+```
+
+## 📦 YOLO Model Setup
+
+The model file `yolov11.pt` is too large for this repository and is excluded via `.gitignore`.
+
+📥 [Download yolov11.pt from Google Drive](## 📦 YOLO Model Setup
+
+The model file `yolov11.pt` is too large for this repository and is excluded via `.gitignore`.
+
+📥 [Download yolov11.pt from Google Drive](https://drive.google.com/file/d/1AbCDEFghIjKlmNOPqR/view?usp=sharing)
+
+After downloading, place the file inside the `models/` folder:)
+
+After downloading, place the file inside the `models/` folder:
 
 
