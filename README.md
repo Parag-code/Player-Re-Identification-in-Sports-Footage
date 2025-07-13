@@ -49,3 +49,17 @@ This system is useful for sports analytics, player tracking, and automated video
 - 📊 Optionally displays **HSV histograms** for detected players.
 
 ---
+
+## 🛠️ Installation
+
+**Requirements:**
+- Python 3.7+
+- OpenCV
+- PyTorch
+- Ultralytics YOLO
+- Matplotlib
+
+**Install dependencies:**
+
+```bash
+pip install -r requirements.txt
